@@ -8,10 +8,10 @@
     
 <div align="center">
  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](blackoficial2025@gmail.com)
-[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/THE-27)
-[![WhatsApp](https://img.shields.io/badge/OWENER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51994114690)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@FlorencioAcaro)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kleinergalindo4@gmail.com)
+[![Support](https://img.shields.io/badge/Support-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]()
+[![WhatsApp](https://img.shields.io/badge/OWENER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573162402768)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](/)
 
 </div>
 
