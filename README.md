@@ -37,7 +37,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone 
+git clone https://github.com/kleiner1-1/ISAGI-BOT-V1.git
 ```
 
 ```bash
