@@ -120,4 +120,4 @@ Si después de instalar el bot en Termux y iniciar la session del bot (el numero
 
 </details>
 
-> **[✎ mᥲძᥱ ᑲᥡ : 🌈ᵀ͢ᴴe ISAGI BOT](https://whatsapp.com/channel/0029VbAWGXyAO7R9SugHPF3M)**
+> **[✎ mᥲძᥱ ᑲᥡ : ISAGI BOT](https://whatsapp.com/channel/0029VbAWGXyAO7R9SugHPF3M)**
